@@ -18,3 +18,5 @@ javascript:function url() {
   );
 }
 window.open(url(), '_blank');
+
+// Leave the javascript bookmark on line 1 to copy and paste it straight into a bookmark
