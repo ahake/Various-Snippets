@@ -1,5 +1,5 @@
 Add-Type -Path "C:\path_to_dll\itextsharp.dll"
-$pdfs = Get-ChildItem "C:\path_to_pdfs" *.pdf
+$pdfs = Get-ChildItem "C:\path_to_pdfs" *.pdf -Recurse
 $export = "C:\path_to_export\export.csv"
 $results = @()
 $keywords = @('Keyword1', 'Keyword2', 'Keyword3')
