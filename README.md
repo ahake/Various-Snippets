@@ -10,4 +10,5 @@ As the name suggests, this repo holds a few snippets that don't warrant a full r
 |[EncodeUTF8.ps1](https://github.com/ahake/Various-Snippets/blob/master/EncodeUtf8.ps1)|Encodes file to utf-8|Powershell|
 |[Get-IPInfo (Ubuntu)](https://github.com/ahake/Various-Snippets/blob/master/Get-IPInfo%20(Ubuntu))|Returns current IP info and pipes it through [`JQ`](http://manpages.ubuntu.com/manpages/xenial/man1/jq.1.html)|Shell|
 |[GetRemoteShares](https://github.com/ahake/Various-Snippets/blob/master/GetRemoteShares.bat)|Gets all shares of a remote server|Shell|
+|[SearchPDF](https://github.com/ahake/Various-Snippets/blob/master/SearchPDF.ps1)|Search for text within PDF - [based on this SuperUser answer](https://superuser.com/a/1278521/622356) |PowerShell|
 |[Update-Powershell.ps1](https://github.com/ahake/Various-Snippets/blob/master/Update-Powershell.ps1)|Updates PowerShell inplace as per [Thomas Maurer](https://www.thomasmaurer.ch/2019/03/how-to-install-and-update-powershell-6/)|Powershell Core|
